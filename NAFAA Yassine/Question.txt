@@ -1,0 +1,58 @@
+Question 1
+Que retourne la fonction :
+input()
+Réponse : Cette fonction permet de saisir une valeur et de l'affecter
+
+Question 2
+Pourquoi utiliser :
+int() pour convertir la quantité ?
+Réponse : Pour pouvoir faire des opérations matématiques sur la quantité , car on ne peut pas en
+faire sur une chaine de caractères
+
+Question 3
+Pourquoi utiliser :
+float() pour convertir le prix ?
+Réponse : Car le prix peut contenir des nombre après la virgule , on le type donc en float
+
+Question 4
+Quelle est la différence entre :
+/ et : //
+Réponse : / est une division qui renvoit un quotient meme a virgule ,
+tandis que // renvoit un quotient entier(division euclidienne)
+
+Question 5
+Que donne :
+17 // 4
+Réponse : 4
+
+Question 6
+Que donne :
+17 % 4
+Réponse : 1
+
+Question 7
+Que représentent ensemble :
+17 // 4
+17 % 4
+Réponse : le quotient entier de 17 par 4 et son reste
+
+Question 8
+Comment obtenir le nombre d'heures à partir d'un nombre de minutes ?
+Réponse : Le nombre de minutes par 60 en utilisant l'opérateur //
+
+Question 9
+Comment obtenir les minutes restantes ?
+Réponse : Le nombre de minutes par 60 en utilisant l'opérateur %
+
+Question 10
+À quoi sert :
+:.2f
+Réponse : Cela indique qui faut afficher jusqu'a 2 nombres après la virgule
+
+Question 11
+À quoi servent les paramètres :
+sep et end
+réponse : sep permet de définir un séparateur entre chaque valeurs paramètrées dans
+la fonction print()
+end permet de définir la dernière valeur affiché par la fonction print() , par défault ,
+ elle définit "\n".
